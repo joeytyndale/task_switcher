@@ -1,4 +1,8 @@
 # task_switcher
+
+FireFox extension for injecting JS: https://addons.mozilla.org/en-US/firefox/addon/javascript
+
+
 Project to link finesse and workday with easy buttons for switching tasks
 
 What we know so far:
